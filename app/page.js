@@ -452,10 +452,10 @@ export default function Portfolio() {
               </div>
             </div>
 
-            <h1 className="text-6xl md:text-8xl font-bold mb-6 animate-glitch-heavy relative" data-text="JOHN DOE">
-              <span className="text-green-500 drop-shadow-[0_0_20px_rgba(0,255,0,0.8)] animate-neon-pulse">JOHN DOE</span>
-              <div className="absolute -top-2 -left-2 text-green-300 opacity-30 animate-glitch-1">JOHN DOE</div>
-              <div className="absolute -bottom-2 -right-2 text-green-700 opacity-30 animate-glitch-2">JOHN DOE</div>
+            <h1 className="text-6xl md:text-8xl font-bold mb-6 animate-glitch-heavy relative" data-text="Priyanshu Solanki">
+              <span className="text-green-500 drop-shadow-[0_0_20px_rgba(0,255,0,0.8)] animate-neon-pulse">Priyanshu Solanki</span>
+              {/* <div className="absolute -top-2 -left-2 text-green-300 opacity-30 animate-glitch-1">Priyanshu Solanki</div> */}
+              <div className="absolute -bottom-2 -right-2 text-green-700 opacity-30 animate-glitch-2"></div>
             </h1>
             
             <div className="text-2xl md:text-4xl mb-4 h-12 flex items-center justify-center">
